@@ -8,8 +8,8 @@
       "ImageUrl": "https://images.leafly.com/flower-images/gg-4.jpg?auto=compress,format&w=440&dpr=1",
       "MinTHC": 0,
       "MinCBD": 0,
-      "MaxTHC": .2,
-      "MaxCBD": .2,
+      "MaxTHC": 0.2,
+      "MaxCBD": 0.2,
       "Type": "Hybrid",
       "Keywords": [
         "Relaxed", "Happy", "Euphoric", "First"
@@ -20,10 +20,10 @@
       "Description":"aka Gorilla Glue, Original Glue, Gorilla Glue #4",
       "Details":"Original Glue (GG4), developed by GG Strains, is a potent hybrid strain that delivers heavy-handed euphoria and relaxation, leaving you feeling “glued” to the couch. Its chunky, resin-covered buds fill the room with pungent earthy and sour aromas inherited from its parent strains, Chem’s Sister, Sour Dubb, and Chocolate Diesel. Taking first place in both the Michigan and Los Angeles 2014 Cannabis Cups as well as the High Times Jamaican World Cup, this multiple award-winning hybrid's supremacy is no longer a secret, and consumers will search far and wide to get their hands sticky with Original Glue (GG4).",
       "ImageUrl": "https://images.leafly.com/flower-images/gg-4.jpg?auto=compress,format&w=440&dpr=1",
-      "MinTHC": .05,
-      "MinCBD": .05,
-      "MaxTHC": .30,
-      "MaxCBD": .30,
+      "MinTHC": 0.05,
+      "MinCBD": 0.05,
+      "MaxTHC": 0.30,
+      "MaxCBD": 0.30,
       "Type": "Hybrid",
       "Keywords": [
         "Relaxed", "Happy", "Euphoric", "Second"
@@ -34,10 +34,10 @@
       "Description":"aka Gorilla Glue, Original Glue, Gorilla Glue #4",
       "Details":"Original Glue (GG4), developed by GG Strains, is a potent hybrid strain that delivers heavy-handed euphoria and relaxation, leaving you feeling “glued” to the couch. Its chunky, resin-covered buds fill the room with pungent earthy and sour aromas inherited from its parent strains, Chem’s Sister, Sour Dubb, and Chocolate Diesel. Taking first place in both the Michigan and Los Angeles 2014 Cannabis Cups as well as the High Times Jamaican World Cup, this multiple award-winning hybrid's supremacy is no longer a secret, and consumers will search far and wide to get their hands sticky with Original Glue (GG4).",
       "ImageUrl": "https://images.leafly.com/flower-images/gg-4.jpg?auto=compress,format&w=440&dpr=1",
-      "MinTHC": .10,
-      "MinCBD": .10,
-      "MaxTHC": .40,
-      "MaxCBD": .40,
+      "MinTHC": 0.10,
+      "MinCBD": 0.10,
+      "MaxTHC": 0.40,
+      "MaxCBD": 0.40,
       "Type": "Hybrid",
       "Keywords": [
         "Relaxed", "Happy", "Euphoric", "Third"
@@ -48,10 +48,10 @@
       "Description":"aka Gorilla Glue, Original Glue, Gorilla Glue #4",
       "Details":"Original Glue (GG4), developed by GG Strains, is a potent hybrid strain that delivers heavy-handed euphoria and relaxation, leaving you feeling “glued” to the couch. Its chunky, resin-covered buds fill the room with pungent earthy and sour aromas inherited from its parent strains, Chem’s Sister, Sour Dubb, and Chocolate Diesel. Taking first place in both the Michigan and Los Angeles 2014 Cannabis Cups as well as the High Times Jamaican World Cup, this multiple award-winning hybrid's supremacy is no longer a secret, and consumers will search far and wide to get their hands sticky with Original Glue (GG4).",
       "ImageUrl": "https://images.leafly.com/flower-images/gg-4.jpg?auto=compress,format&w=440&dpr=1",
-      "MinTHC": .15,
-      "MinCBD": .15,
-      "MaxTHC": .50,
-      "MaxCBD": .50,
+      "MinTHC": 0.15,
+      "MinCBD": 0.15,
+      "MaxTHC": 0.50,
+      "MaxCBD": 0.50,
       "Type": "Hybrid",
       "Keywords": [
         "Relaxed", "Happy", "Euphoric", "Forth"
@@ -62,10 +62,10 @@
       "Description":"aka Gorilla Glue, Original Glue, Gorilla Glue #4",
       "Details":"Original Glue (GG4), developed by GG Strains, is a potent hybrid strain that delivers heavy-handed euphoria and relaxation, leaving you feeling “glued” to the couch. Its chunky, resin-covered buds fill the room with pungent earthy and sour aromas inherited from its parent strains, Chem’s Sister, Sour Dubb, and Chocolate Diesel. Taking first place in both the Michigan and Los Angeles 2014 Cannabis Cups as well as the High Times Jamaican World Cup, this multiple award-winning hybrid's supremacy is no longer a secret, and consumers will search far and wide to get their hands sticky with Original Glue (GG4).",
       "ImageUrl": "https://images.leafly.com/flower-images/gg-4.jpg?auto=compress,format&w=440&dpr=1",
-      "MinTHC": .20,
-      "MinCBD": .20,
-      "MaxTHC": .60,
-      "MaxCBD": .60,
+      "MinTHC": 0.20,
+      "MinCBD": 0.20,
+      "MaxTHC": 0.60,
+      "MaxCBD": 0.60,
       "Type": "Hybrid",
       "Keywords": [
         "Relaxed", "Happy", "Euphoric", "Fifth"
