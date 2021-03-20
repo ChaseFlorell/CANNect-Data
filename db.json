@@ -1,0 +1,723 @@
+{
+   "Products":[
+      {
+         "Id":"17af4b10-cc68-45b4-a6a4-3763263f0e6b",
+         "CBD":{
+            "Prefix":"Range",
+            "Range":{
+               "Min":0.0,
+               "Max":1.0
+            },
+            "UnitOfMeasure":"Percent"
+         },
+         "THC":{
+            "Prefix":"Range",
+            "Range":{
+               "Min":18.0,
+               "Max":24.0
+            },
+            "UnitOfMeasure":"Percent"
+         },
+         "Terpenes":[
+            {
+               "Name":"Myrcene",
+               "Percentage":30.0,
+               "Keywords":null
+            },
+            {
+               "Name":"Limonene",
+               "Percentage":20.0,
+               "Keywords":null
+            },
+            {
+               "Name":"Caryophyllene",
+               "Percentage":15.0,
+               "Keywords":null
+            },
+            {
+               "Name":"Guaiol",
+               "Percentage":null,
+               "Keywords":null
+            }
+         ],
+         "Keywords":null,
+         "Metadata":{
+            "AGLC SKU":"CNB-00100273"
+         },
+         "ShortDescription":{
+            "en":"Sensi Star 3.5g Dried Flower"
+         },
+         "LongDescription":{
+            "en":"Originally bred by cannabis pioneers Paradise Seeds, Sensi Star is one of the world's most decorated strains. Its pungent aromas of lemon, pepper and fuel are enhanced by an artisanal curing process."
+         },
+         "SKU":"F30011",
+         "ProducerId":null,
+         "WeedFormat":"DriedFlower",
+         "WeedSubCategory":"DriedFlower",
+         "WeedType":"Indica",
+         "Instructions":{
+            "en":"When smoking, wait for a few minutes between inhalations to gauge the strength of the effects."
+         },
+         "Ingredients":[
+            "Dried cannabis"
+         ],
+         "Name":"7ACRES - Sensi Star",
+         "LineageName":"Sensi Star",
+         "WeedOrigin":{
+            "Country":"Canada",
+            "Region":"Ontario"
+         },
+         "ExtractionProcess":{
+            "en":"N/A"
+         },
+         "ProducerDetails":null,
+         "ProducerPrice":null,
+         "WeedMerchandisingStrategy":"Premium"
+      },
+      {
+         "Id":"af17f234-20ac-4ebf-8f4f-fe01905a7c32",
+         "CBD":{
+            "Prefix":"Range",
+            "Range":{
+               "Min":0.0,
+               "Max":1.0
+            },
+            "UnitOfMeasure":"Percent"
+         },
+         "THC":{
+            "Prefix":"Range",
+            "Range":{
+               "Min":14.5,
+               "Max":22.0
+            },
+            "UnitOfMeasure":"Percent"
+         },
+         "Terpenes":[
+            {
+               "Name":"Myrcene",
+               "Percentage":30.0,
+               "Keywords":null
+            },
+            {
+               "Name":"Terpinolene",
+               "Percentage":15.0,
+               "Keywords":null
+            },
+            {
+               "Name":"Alpha/Beta Pinene",
+               "Percentage":10.0,
+               "Keywords":null
+            },
+            {
+               "Name":"beta-Caryophyllene",
+               "Percentage":null,
+               "Keywords":null
+            }
+         ],
+         "Keywords":null,
+         "Metadata":{
+            "AGLC SKU":"CNB-00100275"
+         },
+         "ShortDescription":{
+            "en":"White Widow 3.5g Dried Flower"
+         },
+         "LongDescription":{
+            "en":"White Widow was selected to express the classic aromatic and visual properties that have made this strain a global staple since 1994. It has dense flowers and, true to its name, a coating of characteristic white trichomes."
+         },
+         "SKU":"F40011",
+         "ProducerId":null,
+         "WeedFormat":"DriedFlower",
+         "WeedSubCategory":"DriedFlower",
+         "WeedType":"Hybrid",
+         "Instructions":{
+            "en":"When smoking, wait for a few minutes between inhalations to gauge the strength of the effects."
+         },
+         "Ingredients":[
+            "Dried cannabis"
+         ],
+         "Name":"7ACRES - White Widow",
+         "LineageName":"White Widow",
+         "WeedOrigin":{
+            "Country":"Canada",
+            "Region":"Ontario"
+         },
+         "ExtractionProcess":{
+            "en":"N/A"
+         },
+         "ProducerDetails":null,
+         "ProducerPrice":null,
+         "WeedMerchandisingStrategy":"Better"
+      },
+      {
+         "Id":"21040edf-a1d5-4998-8f51-4ea616aeb94a",
+         "CBD":{
+            "Prefix":"Range",
+            "Range":{
+               "Min":0.0,
+               "Max":1.0
+            },
+            "UnitOfMeasure":"Percent"
+         },
+         "THC":{
+            "Prefix":"Range",
+            "Range":{
+               "Min":15.0,
+               "Max":21.0
+            },
+            "UnitOfMeasure":"Percent"
+         },
+         "Terpenes":[
+            {
+               "Name":"Myrcene",
+               "Percentage":40.0,
+               "Keywords":null
+            },
+            {
+               "Name":"Terpineol",
+               "Percentage":20.0,
+               "Keywords":null
+            },
+            {
+               "Name":"Alpha/Beta Pinene",
+               "Percentage":15.0,
+               "Keywords":null
+            },
+            {
+               "Name":"Limonene",
+               "Percentage":null,
+               "Keywords":null
+            }
+         ],
+         "Keywords":null,
+         "Metadata":{
+            "AGLC SKU":"CNB-00100276"
+         },
+         "ShortDescription":{
+            "en":"Jean Guy 3.5g Dried Flower"
+         },
+         "LongDescription":{
+            "en":"A homage to French-Canadian cannabis history, Jean Guy has a woody, citrus aroma that's as sweet as it is pungent."
+         },
+         "SKU":"F20011",
+         "ProducerId":null,
+         "WeedFormat":"DriedFlower",
+         "WeedSubCategory":"DriedFlower",
+         "WeedType":"Hybrid",
+         "Instructions":{
+            "en":"When smoking, wait for a few minutes between inhalations to gauge the strength of the effects."
+         },
+         "Ingredients":[
+            "Dried cannabis"
+         ],
+         "Name":"7ACRES - Jean Guy",
+         "LineageName":"Jean Guy",
+         "WeedOrigin":{
+            "Country":"Canada",
+            "Region":"Ontario"
+         },
+         "ExtractionProcess":{
+            "en":"N/A"
+         },
+         "ProducerDetails":null,
+         "ProducerPrice":null,
+         "WeedMerchandisingStrategy":"Premium"
+      },
+      {
+         "Id":"7a7675de-72a6-4968-a288-3de5b4db47ae",
+         "CBD":{
+            "Prefix":"Range",
+            "Range":{
+               "Min":0.0,
+               "Max":1.0
+            },
+            "UnitOfMeasure":"Percent"
+         },
+         "THC":{
+            "Prefix":"Range",
+            "Range":{
+               "Min":18.0,
+               "Max":23.0
+            },
+            "UnitOfMeasure":"Percent"
+         },
+         "Terpenes":[
+            {
+               "Name":"Terpineol",
+               "Percentage":40.0,
+               "Keywords":null
+            },
+            {
+               "Name":"Myrcene",
+               "Percentage":20.0,
+               "Keywords":null
+            },
+            {
+               "Name":"Other",
+               "Percentage":20.0,
+               "Keywords":null
+            },
+            {
+               "Name":"Ocimene, Caryophellene, Pinene",
+               "Percentage":null,
+               "Keywords":null
+            }
+         ],
+         "Keywords":null,
+         "Metadata":{
+            "AGLC SKU":"CNB-00100835"
+         },
+         "ShortDescription":{
+            "en":"Jack Haze 3.5g Dried Flower"
+         },
+         "LongDescription":{
+            "en":"In tribute to cannabis activist Jack Herer's namesake strain, 7ACRES developed a sativa-dominant cultivar with a unique combination of sweet citrus, crisp pine and warm spice notes. 7ACRES Jack Haze is the result of a large genetic selection program, with the goal of finding a novel sativa expression. This particular phenotype stands out among the rest, as it possesses both  the sweet haze notes characteristic of a haze cultivar, along with the distinct spice aroma which makes  Jack Herer a favourite amongst the cannabis community."
+         },
+         "SKU":"F50011",
+         "ProducerId":null,
+         "WeedFormat":"DriedFlower",
+         "WeedSubCategory":"DriedFlower",
+         "WeedType":"Sativa",
+         "Instructions":{
+            "en":"When smoking, wait for a few minutes between inhalations to gauge the strength of the effects."
+         },
+         "Ingredients":[
+            "Dried Cannabis"
+         ],
+         "Name":"7ACRES - Jack Haze",
+         "LineageName":"Jack Haze",
+         "WeedOrigin":{
+            "Country":"Canada",
+            "Region":"Ontario"
+         },
+         "ExtractionProcess":{
+            "en":"N/A"
+         },
+         "ProducerDetails":null,
+         "ProducerPrice":null,
+         "WeedMerchandisingStrategy":"Premium"
+      },
+      {
+         "Id":"f14f7e60-75b1-4806-bcf1-b6e910d2c6d6",
+         "CBD":{
+            "Prefix":"Range",
+            "Range":{
+               "Min":0.0,
+               "Max":0.1
+            },
+            "UnitOfMeasure":"Percent"
+         },
+         "THC":{
+            "Prefix":"Range",
+            "Range":{
+               "Min":18.0,
+               "Max":24.0
+            },
+            "UnitOfMeasure":"Percent"
+         },
+         "Terpenes":[
+            {
+               "Name":"Myrcene",
+               "Percentage":50.0,
+               "Keywords":null
+            },
+            {
+               "Name":"Limonene",
+               "Percentage":30.0,
+               "Keywords":null
+            },
+            {
+               "Name":"Trans Caryophyllene",
+               "Percentage":20.0,
+               "Keywords":null
+            }
+         ],
+         "Keywords":null,
+         "Metadata":{
+            "AGLC SKU":"CNB-00101546"
+         },
+         "ShortDescription":{
+            "en":"Sensi Star 2 x 0.5 g Pre-Roll"
+         },
+         "LongDescription":{
+            "en":"7ACRES Sensi Star is a specially selected cultivar that represents the aromatic and visual qualities that have made this one of the world's most decorated strains.  Originally bred by Dutch cannabis pioneers Paradise Seeds, Sensi Star's dense flower structure and pungent  aromas are enhanced by 7ACRES' artisanal curing process."
+         },
+         "SKU":"F30041",
+         "ProducerId":null,
+         "WeedFormat":"PreRoll",
+         "WeedSubCategory":"PreRolls",
+         "WeedType":"Indica",
+         "Instructions":{
+            "en":"Inhalation"
+         },
+         "Ingredients":[
+            "Dried Cannabis",
+            "rolling paper"
+         ],
+         "Name":"7ACRES - Sensi Star",
+         "LineageName":"Sensi Star",
+         "WeedOrigin":{
+            "Country":"Canada",
+            "Region":"Ontario"
+         },
+         "ExtractionProcess":{
+            "en":"N/A"
+         },
+         "ProducerDetails":null,
+         "ProducerPrice":null,
+         "WeedMerchandisingStrategy":"Better"
+      },
+      {
+         "Id":"ca4fc81b-9053-48f2-a651-cb1e14049736",
+         "CBD":{
+            "Prefix":"Range",
+            "Range":{
+               "Min":0.0,
+               "Max":0.1
+            },
+            "UnitOfMeasure":"Percent"
+         },
+         "THC":{
+            "Prefix":"Range",
+            "Range":{
+               "Min":17.0,
+               "Max":23.0
+            },
+            "UnitOfMeasure":"Percent"
+         },
+         "Terpenes":[
+            {
+               "Name":"Trans-Nerolidol",
+               "Percentage":45.0,
+               "Keywords":null
+            },
+            {
+               "Name":"Myrcene",
+               "Percentage":35.0,
+               "Keywords":null
+            },
+            {
+               "Name":"Ocimene",
+               "Percentage":20.0,
+               "Keywords":null
+            }
+         ],
+         "Keywords":null,
+         "Metadata":{
+            "AGLC SKU":"CNB-00101547"
+         },
+         "ShortDescription":{
+            "en":"Jack Haze 2 x 0.5 g Pre-Roll"
+         },
+         "LongDescription":{
+            "en":"In tribute to cannabis activist Jack Herer's namesake strain, 7ACRES has developed a sativa-dominant cultivar with a unique combination of sharp lemon, crisp pine and warm spice notes. 7ACRES Jack Haze was a result of a large genetic selection program, with the goal of finding a novel sativa expression. This particular phenotype stood out among the rest, as it possessed both the sweet haze notes characteristic of a haze cultivar, along with the distinct spice aroma which has made Jack Herer a favourite amongst the cannabis community for years."
+         },
+         "SKU":"F50041",
+         "ProducerId":null,
+         "WeedFormat":"PreRoll",
+         "WeedSubCategory":"PreRolls",
+         "WeedType":"Sativa",
+         "Instructions":{
+            "en":"Inhalation"
+         },
+         "Ingredients":[
+            "Dried Cannabis",
+            "rolling paper"
+         ],
+         "Name":"7ACRES - Jack Haze",
+         "LineageName":"Jack Haze",
+         "WeedOrigin":{
+            "Country":"Canada",
+            "Region":"Ontario"
+         },
+         "ExtractionProcess":{
+            "en":"N/A"
+         },
+         "ProducerDetails":null,
+         "ProducerPrice":null,
+         "WeedMerchandisingStrategy":"Better"
+      },
+      {
+         "Id":"1b6933e6-13a4-4ae9-9640-c3e4b2d64fba",
+         "CBD":{
+            "Prefix":"Range",
+            "Range":{
+               "Min":0.0,
+               "Max":0.1
+            },
+            "UnitOfMeasure":"Percent"
+         },
+         "THC":{
+            "Prefix":"Range",
+            "Range":{
+               "Min":15.0,
+               "Max":21.0
+            },
+            "UnitOfMeasure":"Percent"
+         },
+         "Terpenes":[
+            {
+               "Name":"Myrcene",
+               "Percentage":45.0,
+               "Keywords":null
+            },
+            {
+               "Name":"Terpinolene",
+               "Percentage":35.0,
+               "Keywords":null
+            },
+            {
+               "Name":"Alpha Pinene",
+               "Percentage":20.0,
+               "Keywords":null
+            }
+         ],
+         "Keywords":null,
+         "Metadata":{
+            "AGLC SKU":"CNB-00101548"
+         },
+         "ShortDescription":{
+            "en":"Jean Guy 2 x 0.5 g Pre-Roll"
+         },
+         "LongDescription":{
+            "en":"7ACRES Jean Guy is a homage to French-Canadian cannabis history, expressing the pungent sweet, citrus and woody aroma that made this strain a Canadian classic. This rare cultivar is the result of extensive genetic selection to ensure the truest expression of the strain."
+         },
+         "SKU":"F20041",
+         "ProducerId":null,
+         "WeedFormat":"PreRoll",
+         "WeedSubCategory":"PreRolls",
+         "WeedType":"Hybrid",
+         "Instructions":{
+            "en":"Inhalation"
+         },
+         "Ingredients":[
+            "Dried Cannabis",
+            "rolling paper"
+         ],
+         "Name":"7ACRES - Jean Guy",
+         "LineageName":"Jean Guy",
+         "WeedOrigin":{
+            "Country":"Canada",
+            "Region":"Ontario"
+         },
+         "ExtractionProcess":{
+            "en":"N/A"
+         },
+         "ProducerDetails":null,
+         "ProducerPrice":null,
+         "WeedMerchandisingStrategy":"Better"
+      },
+      {
+         "Id":"0ea19167-5519-42e0-b6e4-b1cec64c7f96",
+         "CBD":{
+            "Prefix":"Range",
+            "Range":{
+               "Min":0.0,
+               "Max":0.1
+            },
+            "UnitOfMeasure":"Percent"
+         },
+         "THC":{
+            "Prefix":"Range",
+            "Range":{
+               "Min":14.0,
+               "Max":22.0
+            },
+            "UnitOfMeasure":"Percent"
+         },
+         "Terpenes":[
+            {
+               "Name":"Myrcene",
+               "Percentage":45.0,
+               "Keywords":null
+            },
+            {
+               "Name":"Terpinolene",
+               "Percentage":35.0,
+               "Keywords":null
+            },
+            {
+               "Name":"Alpha Pinene",
+               "Percentage":20.0,
+               "Keywords":null
+            }
+         ],
+         "Keywords":null,
+         "Metadata":{
+            "AGLC SKU":"CNB-00101549"
+         },
+         "ShortDescription":{
+            "en":"White Widow 2 x 0.5 g Pre-Roll"
+         },
+         "LongDescription":{
+            "en":"7ACRES White Widow was selected to express the classic aromatic and visual properties that have made this strain a global staple since 1994.  7ACRES takes a meticulous approach to raising this cultivar to produce dense flowers with a coating of characteristic white trichomes representative of its name."
+         },
+         "SKU":"F40041",
+         "ProducerId":null,
+         "WeedFormat":"PreRoll",
+         "WeedSubCategory":"PreRolls",
+         "WeedType":"Hybrid",
+         "Instructions":{
+            "en":"Inhalation"
+         },
+         "Ingredients":[
+            "Dried Cannabis",
+            "rolling paper"
+         ],
+         "Name":"7ACRES - White Widow",
+         "LineageName":"White Widow",
+         "WeedOrigin":{
+            "Country":"Canada",
+            "Region":"Ontario"
+         },
+         "ExtractionProcess":{
+            "en":"N/A"
+         },
+         "ProducerDetails":null,
+         "ProducerPrice":null,
+         "WeedMerchandisingStrategy":"Better"
+      },
+      {
+         "Id":"972a9709-4472-4f53-a594-2cbb939a98ec",
+         "CBD":{
+            "Prefix":"Range",
+            "Range":{
+               "Min":0.0,
+               "Max":1.0
+            },
+            "UnitOfMeasure":"Percent"
+         },
+         "THC":{
+            "Prefix":"Range",
+            "Range":{
+               "Min":14.5,
+               "Max":22.0
+            },
+            "UnitOfMeasure":"Percent"
+         },
+         "Terpenes":[
+            {
+               "Name":"Myrcene",
+               "Percentage":30.0,
+               "Keywords":null
+            },
+            {
+               "Name":"Terpinolene",
+               "Percentage":15.0,
+               "Keywords":null
+            },
+            {
+               "Name":"Alpha/Beta Pinene",
+               "Percentage":10.0,
+               "Keywords":null
+            },
+            {
+               "Name":"beta-Caryophyllene",
+               "Percentage":null,
+               "Keywords":null
+            }
+         ],
+         "Keywords":null,
+         "Metadata":{
+            "AGLC SKU":"CNB-00101551"
+         },
+         "ShortDescription":{
+            "en":"White Widow 7 g Dried Flower"
+         },
+         "LongDescription":{
+            "en":"White Widow was selected to express the classic aromatic and visual properties that have made this strain a global staple since 1994. It has dense flowers and, true to its name, a coating of characteristic white trichomes."
+         },
+         "SKU":"F40012",
+         "ProducerId":null,
+         "WeedFormat":"DriedFlower",
+         "WeedSubCategory":"DriedFlower",
+         "WeedType":"Hybrid",
+         "Instructions":{
+            "en":"When smoking, wait for a few minutes between inhalations to gauge the strength of the effects."
+         },
+         "Ingredients":[
+            "Dried cannabis"
+         ],
+         "Name":"7ACRES - White Widow",
+         "LineageName":"White Widow",
+         "WeedOrigin":{
+            "Country":"Canada",
+            "Region":"Ontario"
+         },
+         "ExtractionProcess":{
+            "en":"N/A"
+         },
+         "ProducerDetails":null,
+         "ProducerPrice":null,
+         "WeedMerchandisingStrategy":"Better"
+      },
+      {
+         "Id":"957fef60-df63-4228-946f-56462c2f475e",
+         "CBD":{
+            "Prefix":"Range",
+            "Range":{
+               "Min":0.0,
+               "Max":0.1
+            },
+            "UnitOfMeasure":"Percent"
+         },
+         "THC":{
+            "Prefix":"Range",
+            "Range":{
+               "Min":12.0,
+               "Max":18.0
+            },
+            "UnitOfMeasure":"Percent"
+         },
+         "Terpenes":[
+            {
+               "Name":"Myrcene",
+               "Percentage":35.0,
+               "Keywords":null
+            },
+            {
+               "Name":"Nerolidol",
+               "Percentage":35.0,
+               "Keywords":null
+            },
+            {
+               "Name":"Ocimene",
+               "Percentage":30.0,
+               "Keywords":null
+            }
+         ],
+         "Keywords":null,
+         "Metadata":{
+            "AGLC SKU":"CNB-00101960"
+         },
+         "ShortDescription":{
+            "en":"Rolled Jack Haze 3 x 0.5 g Pre-rolls"
+         },
+         "LongDescription":{
+            "en":"Rolled Jack Haze is a ready-to-enjoy pre-roll for a no-fuss experience on the go. This sativa-dominant strain is a unique combination of sweet citrus, crisp pine and warm spice notes. With both sharp and sweet notes characteristic of a haze strain, it has a distinct spice aroma."
+         },
+         "SKU":"T50043",
+         "ProducerId":null,
+         "WeedFormat":"PreRoll",
+         "WeedSubCategory":"PreRolls",
+         "WeedType":"Sativa",
+         "Instructions":{
+            "en":"Inhalation"
+         },
+         "Ingredients":[
+            "Dried cannabis"
+         ],
+         "Name":"7ACRES - Rolled Jack Haze",
+         "LineageName":"Jack Haze",
+         "WeedOrigin":{
+            "Country":"Canada",
+            "Region":"Ontario"
+         },
+         "ExtractionProcess":{
+            "en":"N/A"
+         },
+         "ProducerDetails":null,
+         "ProducerPrice":null,
+         "WeedMerchandisingStrategy":"Better"
+      }
+   ]
+}
