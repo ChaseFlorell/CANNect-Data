@@ -73,6 +73,154 @@
          "ProducerDetails":null,
          "ProducerPrice":null,
          "WeedMerchandisingStrategy":"Premium"
+      },
+      {
+         "Id":"af17f234-20ac-4ebf-8f4f-fe01905a7c32",
+         "CBD":{
+            "Prefix":"Range",
+            "Range":{
+               "Min":0.0,
+               "Max":1.0
+            },
+            "UnitOfMeasure":"Percent"
+         },
+         "THC":{
+            "Prefix":"Range",
+            "Range":{
+               "Min":14.5,
+               "Max":22.0
+            },
+            "UnitOfMeasure":"Percent"
+         },
+         "Terpenes":[
+            {
+               "Name":"Myrcene",
+               "Percentage":30.0,
+               "Keywords":null
+            },
+            {
+               "Name":"Terpinolene",
+               "Percentage":15.0,
+               "Keywords":null
+            },
+            {
+               "Name":"Alpha/Beta Pinene",
+               "Percentage":10.0,
+               "Keywords":null
+            },
+            {
+               "Name":"beta-Caryophyllene",
+               "Percentage":null,
+               "Keywords":null
+            }
+         ],
+         "Keywords":null,
+         "Metadata":{
+            "AGLC SKU":"CNB-00100275"
+         },
+         "ShortDescription":{
+            "en":"White Widow 3.5g Dried Flower"
+         },
+         "LongDescription":{
+            "en":"White Widow was selected to express the classic aromatic and visual properties that have made this strain a global staple since 1994. It has dense flowers and, true to its name, a coating of characteristic white trichomes."
+         },
+         "SKU":"F40011",
+         "ProducerId":null,
+         "WeedFormat":"DriedFlower",
+         "WeedSubCategory":"DriedFlower",
+         "WeedType":"Hybrid",
+         "Instructions":{
+            "en":"When smoking, wait for a few minutes between inhalations to gauge the strength of the effects."
+         },
+         "Ingredients":[
+            "Dried cannabis"
+         ],
+         "Name":"7ACRES - White Widow",
+         "LineageName":"White Widow",
+         "WeedOrigin":{
+            "Country":"Canada",
+            "Region":"Ontario"
+         },
+         "ExtractionProcess":{
+            "en":"N/A"
+         },
+         "ProducerDetails":null,
+         "ProducerPrice":null,
+         "WeedMerchandisingStrategy":"Better"
+      },
+      {
+         "Id":"21040edf-a1d5-4998-8f51-4ea616aeb94a",
+         "CBD":{
+            "Prefix":"Range",
+            "Range":{
+               "Min":0.0,
+               "Max":1.0
+            },
+            "UnitOfMeasure":"Percent"
+         },
+         "THC":{
+            "Prefix":"Range",
+            "Range":{
+               "Min":15.0,
+               "Max":21.0
+            },
+            "UnitOfMeasure":"Percent"
+         },
+         "Terpenes":[
+            {
+               "Name":"Myrcene",
+               "Percentage":40.0,
+               "Keywords":null
+            },
+            {
+               "Name":"Terpineol",
+               "Percentage":20.0,
+               "Keywords":null
+            },
+            {
+               "Name":"Alpha/Beta Pinene",
+               "Percentage":15.0,
+               "Keywords":null
+            },
+            {
+               "Name":"Limonene",
+               "Percentage":null,
+               "Keywords":null
+            }
+         ],
+         "Keywords":null,
+         "Metadata":{
+            "AGLC SKU":"CNB-00100276"
+         },
+         "ShortDescription":{
+            "en":"Jean Guy 3.5g Dried Flower"
+         },
+         "LongDescription":{
+            "en":"A homage to French-Canadian cannabis history, Jean Guy has a woody, citrus aroma that's as sweet as it is pungent."
+         },
+         "SKU":"F20011",
+         "ProducerId":null,
+         "WeedFormat":"DriedFlower",
+         "WeedSubCategory":"DriedFlower",
+         "WeedType":"Hybrid",
+         "Instructions":{
+            "en":"When smoking, wait for a few minutes between inhalations to gauge the strength of the effects."
+         },
+         "Ingredients":[
+            "Dried cannabis"
+         ],
+         "Name":"7ACRES - Jean Guy",
+         "LineageName":"Jean Guy",
+         "WeedOrigin":{
+            "Country":"Canada",
+            "Region":"Ontario"
+         },
+         "ExtractionProcess":{
+            "en":"N/A"
+         },
+         "ProducerDetails":null,
+         "ProducerPrice":null,
+         "WeedMerchandisingStrategy":"Premium"
       }
    ]
 }
