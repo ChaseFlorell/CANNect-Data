@@ -1,226 +1,212 @@
 {
    "Products":[
-      {
-         "Id":"17af4b10-cc68-45b4-a6a4-3763263f0e6b",
-         "CBD":{
-            "Prefix":"Range",
-            "Range":{
-               "Min":0.0,
-               "Max":1.0
-            },
-            "UnitOfMeasure":"Percent"
-         },
-         "THC":{
-            "Prefix":"Range",
-            "Range":{
-               "Min":18.0,
-               "Max":24.0
-            },
-            "UnitOfMeasure":"Percent"
-         },
-         "Terpenes":[
-            {
-               "Name":"Myrcene",
-               "Percentage":30.0,
-               "Keywords":null
-            },
-            {
-               "Name":"Limonene",
-               "Percentage":20.0,
-               "Keywords":null
-            },
-            {
-               "Name":"Caryophyllene",
-               "Percentage":15.0,
-               "Keywords":null
-            },
-            {
-               "Name":"Guaiol",
-               "Percentage":null,
-               "Keywords":null
-            }
-         ],
-         "Keywords":null,
-         "Metadata":{
-            "AGLC SKU":"CNB-00100273"
-         },
-         "ShortDescription":{
-            "en":"Sensi Star 3.5g Dried Flower"
-         },
-         "LongDescription":{
-            "en":"Originally bred by cannabis pioneers Paradise Seeds, Sensi Star is one of the world's most decorated strains. Its pungent aromas of lemon, pepper and fuel are enhanced by an artisanal curing process."
-         },
-         "SKU":"F30011",
-         "ProducerId":null,
-         "WeedFormat":"DriedFlower",
-         "WeedSubCategory":"DriedFlower",
-         "WeedType":"Indica",
-         "Instructions":{
-            "en":"When smoking, wait for a few minutes between inhalations to gauge the strength of the effects."
-         },
-         "Ingredients":[
-            "Dried cannabis"
-         ],
-         "Name":"7ACRES - Sensi Star",
-         "LineageName":"Sensi Star",
-         "WeedOrigin":{
-            "Country":"Canada",
-            "Region":"Ontario"
-         },
-         "ExtractionProcess":{
-            "en":"N/A"
-         },
-         "ProducerDetails":null,
-         "ProducerPrice":null,
-         "WeedMerchandisingStrategy":"Premium"
+    
+  {
+    "Id": "730e1a68-1445-4994-8656-77d872616f66",
+    "CBD": {
+      "Prefix": "LessThan",
+      "Range": {
+        "Min": 100.0,
+        "Max": 100.0
       },
-      {
-         "Id":"af17f234-20ac-4ebf-8f4f-fe01905a7c32",
-         "CBD":{
-            "Prefix":"Range",
-            "Range":{
-               "Min":0.0,
-               "Max":1.0
-            },
-            "UnitOfMeasure":"Percent"
-         },
-         "THC":{
-            "Prefix":"Range",
-            "Range":{
-               "Min":14.5,
-               "Max":22.0
-            },
-            "UnitOfMeasure":"Percent"
-         },
-         "Terpenes":[
-            {
-               "Name":"Myrcene",
-               "Percentage":30.0,
-               "Keywords":null
-            },
-            {
-               "Name":"Terpinolene",
-               "Percentage":15.0,
-               "Keywords":null
-            },
-            {
-               "Name":"Alpha/Beta Pinene",
-               "Percentage":10.0,
-               "Keywords":null
-            },
-            {
-               "Name":"beta-Caryophyllene",
-               "Percentage":null,
-               "Keywords":null
-            }
-         ],
-         "Keywords":null,
-         "Metadata":{
-            "AGLC SKU":"CNB-00100275"
-         },
-         "ShortDescription":{
-            "en":"White Widow 3.5g Dried Flower"
-         },
-         "LongDescription":{
-            "en":"White Widow was selected to express the classic aromatic and visual properties that have made this strain a global staple since 1994. It has dense flowers and, true to its name, a coating of characteristic white trichomes."
-         },
-         "SKU":"F40011",
-         "ProducerId":null,
-         "WeedFormat":"DriedFlower",
-         "WeedSubCategory":"DriedFlower",
-         "WeedType":"Hybrid",
-         "Instructions":{
-            "en":"When smoking, wait for a few minutes between inhalations to gauge the strength of the effects."
-         },
-         "Ingredients":[
-            "Dried cannabis"
-         ],
-         "Name":"7ACRES - White Widow",
-         "LineageName":"White Widow",
-         "WeedOrigin":{
-            "Country":"Canada",
-            "Region":"Ontario"
-         },
-         "ExtractionProcess":{
-            "en":"N/A"
-         },
-         "ProducerDetails":null,
-         "ProducerPrice":null,
-         "WeedMerchandisingStrategy":"Better"
+      "UnitOfMeasure": "MilligramsPerGram"
+    },
+    "THC": {
+      "Prefix": "Approximately",
+      "Range": {
+        "Min": 750.0,
+        "Max": 750.0
       },
+      "UnitOfMeasure": "MilligramsPerGram"
+    },
+    "Terpenes": [
       {
-         "Id":"21040edf-a1d5-4998-8f51-4ea616aeb94a",
-         "CBD":{
-            "Prefix":"Range",
-            "Range":{
-               "Min":0.0,
-               "Max":1.0
-            },
-            "UnitOfMeasure":"Percent"
-         },
-         "THC":{
-            "Prefix":"Range",
-            "Range":{
-               "Min":15.0,
-               "Max":21.0
-            },
-            "UnitOfMeasure":"Percent"
-         },
-         "Terpenes":[
-            {
-               "Name":"Myrcene",
-               "Percentage":40.0,
-               "Keywords":null
-            },
-            {
-               "Name":"Terpineol",
-               "Percentage":20.0,
-               "Keywords":null
-            },
-            {
-               "Name":"Alpha/Beta Pinene",
-               "Percentage":15.0,
-               "Keywords":null
-            },
-            {
-               "Name":"Limonene",
-               "Percentage":null,
-               "Keywords":null
-            }
-         ],
-         "Keywords":null,
-         "Metadata":{
-            "AGLC SKU":"CNB-00100276"
-         },
-         "ShortDescription":{
-            "en":"Jean Guy 3.5g Dried Flower"
-         },
-         "LongDescription":{
-            "en":"A homage to French-Canadian cannabis history, Jean Guy has a woody, citrus aroma that's as sweet as it is pungent."
-         },
-         "SKU":"F20011",
-         "ProducerId":null,
-         "WeedFormat":"DriedFlower",
-         "WeedSubCategory":"DriedFlower",
-         "WeedType":"Hybrid",
-         "Instructions":{
-            "en":"When smoking, wait for a few minutes between inhalations to gauge the strength of the effects."
-         },
-         "Ingredients":[
-            "Dried cannabis"
-         ],
-         "Name":"7ACRES - Jean Guy",
-         "LineageName":"Jean Guy",
-         "WeedOrigin":{
-            "Country":"Canada",
-            "Region":"Ontario"
-         },
-         "ExtractionProcess":{
-            "en":"N/A"
-         },
-         "ProducerDetails":null,
-         "ProducerPrice":null,
-         "WeedMerchandisingStrategy":"Premium"
+        "Name": "Various",
+        "Percentage": null,
+        "Keywords": null
       }
+    ],
+    "Keywords": null,
+    "Metadata": {
+      "AGLC SKU": "CNB-07202484"
+    },
+    "ShortDescription": {
+      "en": "PureFarma Sativa Sun 0.5 g Prefilled Vape Cartridge"
+    },
+    "LongDescription": {
+      "en": "Purefarma's SUN is carefully extracted from the highest quality, hand selected Sativa flower. Our proprietary extraction process allows us to produce a full plant vapeable product, preserving its distinctive honey flavor with a subtle citrus finish, without the need for back added terpenes, flavors or carrier oil resulting in a product that fully embodies the strain specific benefits unavailable in a formulated distillate product. Understand the process, know the ingredients demand the best! Compatible with 510 Thread Devices. Device not included."
+    },
+    "SKU": "8.4236E+11",
+    "ProducerId": null,
+    "WeedFormat": "Vape",
+    "WeedSubCategory": "PrefilledVapeCartridge",
+    "WeedType": "Sativa",
+    "Instructions": {
+      "en": "Inhalation"
+    },
+    "Ingredients": [
+      "100% Cannabis"
+    ],
+    "Name": "Voyage Cannabis Corp - Sativa Sun Vape Cartridge",
+    "LineageName": "Blend",
+    "WeedOrigin": {
+      "Country": "Canada",
+      "Region": "British Columbia"
+    },
+    "ExtractionProcess": {
+      "en": "CO2"
+    },
+    "ProducerDetails": null,
+    "ProducerPrice": null,
+    "WeedMerchandisingStrategy": "Premium"
+  },
+  {
+    "Id": "f862b968-d895-405e-bcbb-6830e8866cb5",
+    "CBD": {
+      "Prefix": "Range",
+      "Range": {
+        "Min": 5.0,
+        "Max": 11.0
+      },
+      "UnitOfMeasure": "MilligramsPerGram"
+    },
+    "THC": {
+      "Prefix": "Range",
+      "Range": {
+        "Min": 180.0,
+        "Max": 240.0
+      },
+      "UnitOfMeasure": "MilligramsPerGram"
+    },
+    "Terpenes": [
+      {
+        "Name": "Caryophyllene",
+        "Percentage": 34.0,
+        "Keywords": null
+      },
+      {
+        "Name": "Myrcene",
+        "Percentage": 21.0,
+        "Keywords": null
+      },
+      {
+        "Name": "Linalool",
+        "Percentage": 1.0,
+        "Keywords": null
+      }
+    ],
+    "Keywords": null,
+    "Metadata": {
+      "AGLC SKU": "CNB-06402442"
+    },
+    "ShortDescription": {
+      "en": "Bruce 3.5 g Dried flower"
+    },
+    "LongDescription": {
+      "en": "Ladies look out, here comes Poolboy Bruce. This powerful strain is made from dense buds resulting in a very THC content. Bruce believes life is all about balance and that's why he's here to bring you the perfect combination of Sativa and Indica effects. Fun facts about Bruce: he tastes of a pungent citrus but compared to his smell, tastes a little earthier (loves gardening) and less sweet (not too big of a sweet tooth on this guy). Now I know you're all thinking Wow Bruce sounds amazing! Where in the world did he come from. Well, bred by Jason Holck of Dark Horse Genetics, he was cross bred with Strawberry Diesel and OG Kush. Similar to other plants of this strain, it took Bruce 8 to 10 weeks to reach his full potential and let me tell you, he was a sight to behold. Rich magenta hued leaves, bright green buds frosted with large headed trichomes and red hairs. One look and you're thinking Damn, that dude is rad."
+    },
+    "SKU": "DC10BB-2",
+    "ProducerId": null,
+    "WeedFormat": "DriedFlower",
+    "WeedSubCategory": "DriedFlower",
+    "WeedType": "Hybrid",
+    "Instructions": {
+      "en": "When smoking or using a vaporizer, wait for a few minutes between inhalations to gauge the strength of the effects. Remember to start low and go slow."
+    },
+    "Ingredients": [
+      "Dried Cannabis"
+    ],
+    "Name": "314 Pure Cannabis Ltd. - Bruce",
+    "LineageName": "Bruce Banner",
+    "WeedOrigin": {
+      "Country": "Canada",
+      "Region": "Alberta"
+    },
+    "ExtractionProcess": {
+      "en": "N/A"
+    },
+    "ProducerDetails": null,
+    "ProducerPrice": null,
+    "WeedMerchandisingStrategy": "Better"
+  },
+  {
+    "Id": "912aff87-d8fe-4059-9dfe-8dfeab78be4a",
+    "CBD": {
+      "Prefix": "Range",
+      "Range": {
+        "Min": 0.0,
+        "Max": 0.5
+      },
+      "UnitOfMeasure": "Percent"
+    },
+    "THC": {
+      "Prefix": "Range",
+      "Range": {
+        "Min": 17.0,
+        "Max": 23.0
+      },
+      "UnitOfMeasure": "Percent"
+    },
+    "Terpenes": [
+      {
+        "Name": "Myrcene (Earthy/Musky)",
+        "Percentage": 46.0,
+        "Keywords": null
+      },
+      {
+        "Name": "Selinadienes",
+        "Percentage": 20.0,
+        "Keywords": null
+      },
+      {
+        "Name": "Pinene",
+        "Percentage": 12.0,
+        "Keywords": null
+      },
+      {
+        "Name": "Caryophyllene",
+        "Percentage": null,
+        "Keywords": null
+      },
+      {
+        "Name": "Santalene",
+        "Percentage": null,
+        "Keywords": null
+      }
+    ],
+    "Keywords": null,
+    "Metadata": {
+      "AGLC SKU": "CNB-00600278"
+    },
+    "ShortDescription": {
+      "en": "Twd. Sativa 7g Dried Flower"
+    },
+    "LongDescription": {
+      "en": "Twd. Sativa is a THC-dominant strain. Good wd. No extras."
+    },
+    "SKU": "101277",
+    "ProducerId": null,
+    "WeedFormat": "DriedFlower",
+    "WeedSubCategory": "DriedFlower",
+    "WeedType": "Sativa",
+    "Instructions": {
+      "en": "When smoking or using a vaporizer, wait for 15 minutes between inhalations to gauge the strength of the effects."
+    },
+    "Ingredients": [
+      "Dried cannabis"
+    ],
+    "Name": "Canopy Growth - Sativa",
+    "LineageName": "Propriety Strain",
+    "WeedOrigin": {
+      "Country": "Canada",
+      "Region": "Ontario"
+    },
+    "ExtractionProcess": {
+      "en": "N/A"
+    },
+    "ProducerDetails": null,
+    "ProducerPrice": null,
+    "WeedMerchandisingStrategy": "Good"
+  }
    ]
 }
